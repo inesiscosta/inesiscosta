@@ -21,9 +21,8 @@ I'm a Telecommunications and Informatics student at Instituto Superior Técnico.
 #
 
 ### GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inesiscosta&show_icons=true&theme=vue)
+#
 
-<h2>My Contributions</h2>
+### My Contributions
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake.svg"/>
-<br/>
