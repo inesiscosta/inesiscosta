@@ -1,6 +1,6 @@
 # Hi there, I'm [Inês](https://github.com/inesiscosta)! 👋
 
-**`Tech Enthusiast (Developer/Student/idk)`**
+**`Tech Enthusiast`**
 
 I'm a Telecommunications and Informatics student at Instituto Superior Técnico.
 
@@ -24,10 +24,6 @@ I'm a Telecommunications and Informatics student at Instituto Superior Técnico.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inesiscosta&show_icons=true&theme=vue)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake.svg"/>
-  
-  <br/><br/><br/>
-</div>
+<h2>My Contributions</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake.svg"/>
+<br/>
