@@ -2,7 +2,7 @@
 
 **`Tech Enthusiast`**
 
-I'm a Telecommunications and Informatics student at Instituto Superior Técnico.
+I'm a Computer Science and Engineering student at Instituto Superior Técnico.
 
 ---
 
