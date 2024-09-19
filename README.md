@@ -20,9 +20,8 @@ I'm a Computer Science and Engineering student at Instituto Superior Técnico.
 #
 
 ### GitHub Stats
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=inesiscosta&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=inesiscosta&show&hide_border=true&icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=inesiscosta&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/inesiscosta/github-readme-stats#gh-light-mode-only)
-
 #
 
 ### My Contributions
