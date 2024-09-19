@@ -26,4 +26,8 @@ I'm a Computer Science and Engineering student at Instituto Superior Técnico.
 #
 
 ### My Contributions
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake-dark.svg?palette=github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/inesiscosta/inesiscosta/output/github-contribution-grid-snake.svg" />
+</picture>
